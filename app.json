@@ -1,0 +1,17 @@
+{
+  "name": "diner",
+  "displayName": "diner",
+  "expo": {
+    "name": "diner",
+    "slug": "diner",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
